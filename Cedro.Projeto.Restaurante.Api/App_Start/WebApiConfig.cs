@@ -10,6 +10,7 @@ using Unity.Lifetime;
 using Cedro.Projeto.Restaurante.Domain.Interfaces.Repositories;
 using Cedro.Projeto.Restaurante.Infra.Data.Repositories;
 using System.Net.Http.Headers;
+using System.Web.Http.Cors;
 
 namespace Cedro.Projeto.Restaurante.Api
 {
@@ -35,6 +36,9 @@ namespace Cedro.Projeto.Restaurante.Api
 
             config.Formatters.JsonFormatter.SupportedMediaTypes
                 .Add(new MediaTypeHeaderValue("text/html"));
+
+            var corsAttr = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(corsAttr);
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

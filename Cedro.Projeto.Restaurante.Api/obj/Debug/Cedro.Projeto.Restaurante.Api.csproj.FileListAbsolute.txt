@@ -146,3 +146,6 @@ c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaura
 c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\Cedro.Projeto.Restaurante.Application.dll.config
 c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\EntityFramework.SqlServer.xml
 C:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\AutoMapper.Net4.dll
+C:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\System.Web.Cors.dll
+C:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\System.Web.Http.Cors.xml

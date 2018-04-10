@@ -66,6 +66,24 @@ namespace Cedro.Projeto.Restaurante.Api.Controllers
             }
         }
 
+        [AcceptVerbs("Get")]
+        //[BasicAuthentication]
+        [ResponseType(typeof(Domain.Entities.Prato))]
+        public IHttpActionResult Get(int id)
+        {
+            Domain.Entities.Prato restaurante = new Domain.Entities.Prato();
+
+            try
+            {
+                restaurante = _pratoApp.GetById(id);
+
+                return Content(HttpStatusCode.OK, restaurante);
+            }
+            catch (Exception ex)
+            {
+                return Content(HttpStatusCode.InternalServerError, ex.ToString());
+            }
+        }
 
         [AcceptVerbs("Post")]
         //[BasicAuthentication]
