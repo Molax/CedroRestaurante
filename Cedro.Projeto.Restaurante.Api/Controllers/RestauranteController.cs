@@ -32,7 +32,7 @@ namespace Cedro.Projeto.Restaurante.Api.Controllers
 
             try
             {
-                if (string.IsNullOrEmpty(nome))
+                if (!string.IsNullOrEmpty(nome))
                 {
                     listaRestaurantes = _restauranteApp.BuscarPorNome(nome);
                 }
