@@ -9,6 +9,7 @@ using Unity;
 using Unity.Lifetime;
 using Cedro.Projeto.Restaurante.Domain.Interfaces.Repositories;
 using Cedro.Projeto.Restaurante.Infra.Data.Repositories;
+using System.Net.Http.Headers;
 
 namespace Cedro.Projeto.Restaurante.Api
 {
@@ -31,6 +32,9 @@ namespace Cedro.Projeto.Restaurante.Api
 
 
             config.MapHttpAttributeRoutes();
+
+            config.Formatters.JsonFormatter.SupportedMediaTypes
+                .Add(new MediaTypeHeaderValue("text/html"));
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

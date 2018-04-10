@@ -15,5 +15,7 @@ namespace Cedro.Projeto.Restaurante.Domain.Entities
         public string Preco { get; set; }
 
         public int IdRestaurante { get; set; }
+
+        public virtual Restaurante Restaurante { get; set; }
     }
 }
