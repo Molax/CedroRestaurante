@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Cedro.Projeto.Restaurante.Api.ViewModel;
 using Cedro.Projeto.Restaurante.Application.Interface;
+using Cedro.Projeto.Restaurante.Domain.Interfaces.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,10 +16,9 @@ namespace Cedro.Projeto.Restaurante.Api.Controllers
     {
         private readonly IPratoAppService _pratoApp;
 
-
-        public PratoController(IPratoAppService app)
+        public PratoController(IPratoAppService pratosvc)
         {
-            _pratoApp = app;
+            this._pratoApp = pratosvc;
         }
 
         [AcceptVerbs("Get")]
@@ -31,7 +31,7 @@ namespace Cedro.Projeto.Restaurante.Api.Controllers
 
             try
             {
-                if (string.IsNullOrEmpty(nome))
+                if (!string.IsNullOrEmpty(nome))
                 {
                     listPratos = _pratoApp.BuscarPorNome(nome);
                 }

@@ -43,7 +43,7 @@ namespace Cedro.Projeto.Restaurante.Infra.Data.Repositories
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Db.Dispose();
         }
     }
 }

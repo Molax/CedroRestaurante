@@ -7,3 +7,8 @@ c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaura
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.csproj.CopyComplete
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.dll
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.pdb
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\Cedro.Projeto.Restaurante.Application.dll.config
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\EntityFramework.dll
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\EntityFramework.xml
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\EntityFramework.SqlServer.xml

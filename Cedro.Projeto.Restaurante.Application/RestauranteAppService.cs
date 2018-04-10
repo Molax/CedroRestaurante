@@ -21,7 +21,7 @@ namespace Cedro.Projeto.Restaurante.Application
 
         public IEnumerable<Domain.Entities.Restaurante> BuscarPorNome(string nome)
         {
-            throw new NotImplementedException();
+            return _restauranteService.BuscarPorNome(nome);
         }
     }
 }

@@ -142,3 +142,6 @@ c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaura
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\obj\Debug\Cedro.Projeto.Restaurante.Api.dll
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\obj\Debug\Cedro.Projeto.Restaurante.Api.pdb
 c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\Microsoft.Practices.Unity.Tracking.dll
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\EntityFramework.SqlServer.dll
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\Cedro.Projeto.Restaurante.Application.dll.config
+c:\Users\Joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Api\bin\EntityFramework.SqlServer.xml

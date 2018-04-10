@@ -19,14 +19,9 @@ namespace Cedro.Projeto.Restaurante.Application
             _PratoService = pratoservice;
         }
 
-        public IEnumerable<Domain.Entities.Restaurante> BuscarPorNome(string nome)
-        {
-            throw new NotImplementedException();
-        }
-
         IEnumerable<Prato> IPratoAppService.BuscarPorNome(string nome)
         {
-            throw new NotImplementedException();
+            return _PratoService.BuscarPorNome(nome);
         }
     }
 }
