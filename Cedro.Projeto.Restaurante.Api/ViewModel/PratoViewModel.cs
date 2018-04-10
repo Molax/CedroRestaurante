@@ -15,6 +15,6 @@ namespace Cedro.Projeto.Restaurante.Api.ViewModel
 
         public int IdRestaurante { get; set; }
 
-        public virtual Domain.Entities.Restaurante Restaurante  { get; set; }
+        public virtual RestauranteViewModel Restaurante  { get; set; }
     }
 }

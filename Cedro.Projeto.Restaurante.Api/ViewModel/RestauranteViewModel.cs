@@ -10,5 +10,6 @@ namespace Cedro.Projeto.Restaurante.Api.ViewModel
         public int IdRestaurante { get; set; }
 
         public string Nome { get; set; }
+
     }
 }
