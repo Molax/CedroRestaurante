@@ -1,0 +1,14 @@
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\Cedro.Projeto.Restaurante.Infra.Data.dll.config
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\Cedro.Projeto.Restaurante.Infra.Data.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\Cedro.Projeto.Restaurante.Infra.Data.pdb
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\Cedro.Projeto.Restaurante.Domain.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\Cedro.Projeto.Restaurante.Domain.pdb
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\obj\Debug\Cedro.Projeto.Restaurante.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\obj\Debug\Cedro.Projeto.Restaurante.Infra.Data.csproj.CoreCompileInputs.cache
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\obj\Debug\Cedro.Projeto.Restaurante.Infra.Data.csproj.CopyComplete
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\obj\Debug\Cedro.Projeto.Restaurante.Infra.Data.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Infra.Data\obj\Debug\Cedro.Projeto.Restaurante.Infra.Data.pdb

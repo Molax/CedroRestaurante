@@ -1,0 +1,5 @@
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Domain\bin\Debug\Cedro.Projeto.Restaurante.Domain.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Domain\bin\Debug\Cedro.Projeto.Restaurante.Domain.pdb
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Domain\obj\Debug\Cedro.Projeto.Restaurante.Domain.csproj.CoreCompileInputs.cache
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Domain\obj\Debug\Cedro.Projeto.Restaurante.Domain.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Domain\obj\Debug\Cedro.Projeto.Restaurante.Domain.pdb

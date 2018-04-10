@@ -1,0 +1,9 @@
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\Cedro.Projeto.Restaurante.Application.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\Cedro.Projeto.Restaurante.Application.pdb
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\Cedro.Projeto.Restaurante.Domain.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\bin\Debug\Cedro.Projeto.Restaurante.Domain.pdb
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.csprojResolveAssemblyReference.cache
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.csproj.CoreCompileInputs.cache
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.csproj.CopyComplete
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.dll
+c:\users\joaop\source\repos\Cedro.Projeto.Restaurante.Api\Cedro.Projeto.Restaurante.Application\obj\Debug\Cedro.Projeto.Restaurante.Application.pdb
